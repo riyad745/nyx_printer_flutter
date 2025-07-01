@@ -57,6 +57,7 @@ android {
     dependencies {
         testImplementation 'org.jetbrains.kotlin:kotlin-test'
         testImplementation 'org.mockito:mockito-core:5.0.0'
+        testimplementation files('libs/externalprinterlibrary2-1.0.12-release.aar')
     }
 
     testOptions {

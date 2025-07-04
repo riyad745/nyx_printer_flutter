@@ -64,4 +64,7 @@ flutter {
     source '../..'
 }
 
-dependencies {}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar']) // This includes all .aar files in the libs folder
+    implementation(name: 'externalprinterlibrary2-1.0.12-release', ext: 'aar')
+}

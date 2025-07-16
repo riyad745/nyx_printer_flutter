@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/main/AndroidManifest.xml:2:5-32:19
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+MERGED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/80762999ddc1682578a15709a723079d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/80762999ddc1682578a15709a723079d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:integration_test] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/integration_test/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:1-12:12
+MERGED from [:nyx_printer_flutter] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/nyx_printer_flutter/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/macbookprom1/.gradle/caches/transforms-4/9acfa227e801ce1e73a3fa3de4a1e626/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/00c16e9afd7a5830bfb02a997397b8e7/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/macbookprom1/.gradle/caches/transforms-4/eb0fdde93f45c5c733a864122876bbe6/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/854728bc0cf40d3d0d29efcfd9f652b6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/46696297b846170e1ce56c6593b46f6e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/54661a8cad624079cce7a083ad1de4f4/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6844a7c5bb978ec7addd0a8160571665/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0175d21ba0a6bc9e3d6d382236800d84/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6b618385c0b9da8db2e2e39c814075c7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/b2f458c8fb26e28fee275139c41cdd04/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/0314988cc12443f0cd8bb96f7d22fccf/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/8d270d2fd22ac663d1c047798e82d88f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0369a450d0e217eec3781a22f437b893/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/macbookprom1/.gradle/caches/transforms-4/6227f2497af0237a28dd5ed491d1d07d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fe51635251245dc9766e3b0c7b007b3/transformed/rules-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/1766969b7a8b3293a5ac1ede380b0ccd/transformed/espresso-core-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6520533bf776ce44812fc48b11758aee/transformed/runner-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/026a137c0d1037e9450e4f1b1af6a84d/transformed/monitor-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/2cbc3e1db339e053b143ca6f044fee25/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/e813d874fbefcb212a6b02e63f248f4e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/80762999ddc1682578a15709a723079d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fd7ed952879b7a5599bc9be9cbc119a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/977a3bb56f8e654d7c37d3f46d19e0b7/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/macbookprom1/.gradle/caches/transforms-4/cf0e681ac10c8845f6aa63e7033cf7de/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/aa89993ce1e489cab7600ea0b114c095/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/macbookprom1/.gradle/caches/transforms-4/819ffd7352ef3476e47528bb51ad51ae/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+MERGED from [:integration_test] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/integration_test/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/integration_test/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-44
+MERGED from [:nyx_printer_flutter] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/nyx_printer_flutter/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:nyx_printer_flutter] /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/build/nyx_printer_flutter/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/macbookprom1/.gradle/caches/transforms-4/9acfa227e801ce1e73a3fa3de4a1e626/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/macbookprom1/.gradle/caches/transforms-4/9acfa227e801ce1e73a3fa3de4a1e626/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/00c16e9afd7a5830bfb02a997397b8e7/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/00c16e9afd7a5830bfb02a997397b8e7/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/macbookprom1/.gradle/caches/transforms-4/eb0fdde93f45c5c733a864122876bbe6/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/macbookprom1/.gradle/caches/transforms-4/eb0fdde93f45c5c733a864122876bbe6/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/854728bc0cf40d3d0d29efcfd9f652b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/854728bc0cf40d3d0d29efcfd9f652b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/46696297b846170e1ce56c6593b46f6e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/46696297b846170e1ce56c6593b46f6e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/54661a8cad624079cce7a083ad1de4f4/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/54661a8cad624079cce7a083ad1de4f4/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6844a7c5bb978ec7addd0a8160571665/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6844a7c5bb978ec7addd0a8160571665/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0175d21ba0a6bc9e3d6d382236800d84/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0175d21ba0a6bc9e3d6d382236800d84/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6b618385c0b9da8db2e2e39c814075c7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/6b618385c0b9da8db2e2e39c814075c7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/b2f458c8fb26e28fee275139c41cdd04/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/b2f458c8fb26e28fee275139c41cdd04/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/0314988cc12443f0cd8bb96f7d22fccf/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/0314988cc12443f0cd8bb96f7d22fccf/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/8d270d2fd22ac663d1c047798e82d88f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/8d270d2fd22ac663d1c047798e82d88f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0369a450d0e217eec3781a22f437b893/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/0369a450d0e217eec3781a22f437b893/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/macbookprom1/.gradle/caches/transforms-4/6227f2497af0237a28dd5ed491d1d07d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/macbookprom1/.gradle/caches/transforms-4/6227f2497af0237a28dd5ed491d1d07d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fe51635251245dc9766e3b0c7b007b3/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fe51635251245dc9766e3b0c7b007b3/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/1766969b7a8b3293a5ac1ede380b0ccd/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/1766969b7a8b3293a5ac1ede380b0ccd/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6520533bf776ce44812fc48b11758aee/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/6520533bf776ce44812fc48b11758aee/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/026a137c0d1037e9450e4f1b1af6a84d/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/026a137c0d1037e9450e4f1b1af6a84d/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/2cbc3e1db339e053b143ca6f044fee25/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/2cbc3e1db339e053b143ca6f044fee25/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/e813d874fbefcb212a6b02e63f248f4e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/e813d874fbefcb212a6b02e63f248f4e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/80762999ddc1682578a15709a723079d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/80762999ddc1682578a15709a723079d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fd7ed952879b7a5599bc9be9cbc119a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/6fd7ed952879b7a5599bc9be9cbc119a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/977a3bb56f8e654d7c37d3f46d19e0b7/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/macbookprom1/.gradle/caches/transforms-4/977a3bb56f8e654d7c37d3f46d19e0b7/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/macbookprom1/.gradle/caches/transforms-4/cf0e681ac10c8845f6aa63e7033cf7de/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/macbookprom1/.gradle/caches/transforms-4/cf0e681ac10c8845f6aa63e7033cf7de/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/aa89993ce1e489cab7600ea0b114c095/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/aa89993ce1e489cab7600ea0b114c095/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/macbookprom1/.gradle/caches/transforms-4/819ffd7352ef3476e47528bb51ad51ae/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/macbookprom1/.gradle/caches/transforms-4/819ffd7352ef3476e47528bb51ad51ae/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/src/debug/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/macbookprom1/.gradle/caches/transforms-4/77792e1ffe6a6123d2fb0fcc0b9b39e5/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#net.nyx.nyx_printer_example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#net.nyx.nyx_printer_example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/macbookprom1/.gradle/caches/transforms-4/d5fe5f6c4cbe0b3c09ee5f68888489f3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/macbookprom1/.gradle/caches/transforms-4/ba8066871e9b022a02074709ec065767/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/macbookprom1/.gradle/caches/transforms-4/68ef04b69d7846dd8608c5f41bbed580/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/macbookprom1/.gradle/caches/transforms-4/5e2ace66c24c575389d44fc8242f5350/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

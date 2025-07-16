@@ -1,0 +1,2 @@
+/Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/.cxx/Debug/6a63446t/x86/CMakeFiles/edit_cache.dir
+/Users/macbookprom1/Documents/development/plugin/nyx_printer_flutter/example/android/app/.cxx/Debug/6a63446t/x86/CMakeFiles/rebuild_cache.dir

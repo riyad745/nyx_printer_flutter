@@ -1,6 +1,5 @@
 package net.nyx.nyx_printer
 
-import android.annotation.SuppressLint
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
@@ -17,13 +16,12 @@ import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler
 import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.util.HandlerCompat
+import java.io.ByteArrayInputStream
 import net.nyx.nyx_printer.PrinterResult.SDK_SERVICE_NOT_BIND
 import net.nyx.nyx_printer.PrinterResult.SDK_UNKNOWN_ERR
 import net.nyx.nyx_printer.PrinterResult.msg
 import net.nyx.printerservice.print.IPrinterService
 import net.nyx.printerservice.print.PrintTextFormat
-import java.io.ByteArrayInputStream
-
 
 /** NyxPrinterPlugin */
 class NyxPrinterPlugin : FlutterPlugin, MethodCallHandler {
@@ -32,27 +30,28 @@ class NyxPrinterPlugin : FlutterPlugin, MethodCallHandler {
     /// This local reference serves to register the plugin with the Flutter Engine and unregister it
     /// when the Flutter Engine is detached from the Activity
     private lateinit var channel: MethodChannel
-    private var context: Context? = null;
+    private var context: Context? = null
 
     private var printerService: IPrinterService? = null
-    private val connService: ServiceConnection = object : ServiceConnection {
-        override fun onServiceDisconnected(name: ComponentName) {
-            Log.d("PrinterPlugin", "Printer service disconnected")
-            printerService = null
-            HandlerCompat.createAsyncHandler(Looper.myLooper()).postDelayed({ bindService() }, 2000)
-        }
+    private val connService: ServiceConnection =
+            object : ServiceConnection {
+                override fun onServiceDisconnected(name: ComponentName) {
+                    Log.d("PrinterPlugin", "Printer service disconnected")
+                    printerService = null
+                    HandlerCompat.createAsyncHandler(Looper.myLooper())
+                            .postDelayed({ bindService() }, 2000)
+                }
 
-        override fun onServiceConnected(name: ComponentName, service: IBinder) {
-            Log.d("PrinterPlugin", "Printer service connected")
-            printerService = IPrinterService.Stub.asInterface(service)
-
-        }
-    }
+                override fun onServiceConnected(name: ComponentName, service: IBinder) {
+                    Log.d("PrinterPlugin", "Printer service connected")
+                    printerService = IPrinterService.Stub.asInterface(service)
+                }
+            }
 
     private fun bindService() {
         var prefix = "net.nyx"
-        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.TIRAMISU
-            && "SC9863A" == getSystemProperty("ro.soc.model")
+        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.TIRAMISU &&
+                        "SC9863A" == getSystemProperty("ro.soc.model")
         ) {
             prefix = "com.incar"
         }
